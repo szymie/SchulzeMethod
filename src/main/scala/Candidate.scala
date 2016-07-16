@@ -1,0 +1,1 @@
+case class Candidate(name: String)
